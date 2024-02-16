@@ -1,2 +1,1 @@
-# programmez-picocli-article
-Code source de l'article Programmez sur Picocli
+Code source pour l'article Programmez.
